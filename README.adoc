@@ -1,0 +1,85 @@
+= Resume - Sergei Kartin
+:author: Sergei Kartin
+:email: sergei.kartin@gmail.com
+:data-uri:
+:doctype: article
+:encoding: UTF-8
+:lang: en
+:quirks:
+:theme: cv
+
+== Senior Software Engineer / Senior Full-Stack Web developer
+
+- More than 12 years of professional experience in backend and frontend development
+- Follower of TDD and CI methodologies
+- Team Lead and mentoring experience
+
+
+
+=== Technical skills
+- *Primary Skills:* Java, Spring, Javascript, Typescript, React
+- *Java*: Spring (Boot, Data, Integration), EJB, JPA, JSF
+- *React*: Redux, Redux-Saga, React Hooks, Styled-components
+- *Tools*: CI, Firebase, Ansible, Selenium, Docker
+
+=== Employment
+
+*Senior Web Developer* +
+https://buyer.listingloop.com.au/buyer/#/login/[ListingLoop], Jun 2018 - Jul 2019
+
+- Created MVP product targeted for Australian real estate market
+- Developed a component library based on atomic design principles
+- Technologies: Firebase, React, Typescript, Redux, Redux-Saga, Jest
+
+*Senior Java Developer | Tech Lead* +
+https://www.azoft.com/[Azoft], Novosibirsk, Mar 2017 – Jun 2018
+
+- Integrated telegram bot and bank call center
+- Developed MVP for financial social network integrated with online banking
+- Refactored of Customer Loyalty Program web app for a major Russian bank
+- Technologies: Java, Kotlin, Spring Boot, Spring Data, PostgreSQL
+
+
+*Senior Java Developer | Architect* +
+Easysport, Remote, 2010 – 2017
+
+- Leading the development, automated testing and deployment of web application for booking sport courts.
+- Updated an application from Java EE 5 to Java EE 7, migrated from RichFaces to PrimeFaces.
+- Refactored the core functionality to have more understandable code and better performance.
+- Created a new front-end in React.
+- Introduced code quality pipeline, including unit and Selenium tests, Jenkins CI server, static code analysis
+- Technologies: Java, EJB, JSF, JPA, PrimeFaces, Maven
+
+
+*Software Developer* +
+Freelance Work, 2007 - 2012
+
+- Developed the iPad application called Muscle & Bone Study.
+- Created a website showing local offers and discounts.
+- Built a website covering regional news based on Drupal.
+- Crafted the UI for the Spyder display calibration software for professional photographers and studios.
+- Created J2ME application for tourists reading RFID tags with city information.
+- Created a dance studio attendance tracking application.
+- Created WAP site for social mobile communication service.
+- Technologies: Objective-C, Python, Django, PHP, jQuery, REALBasic, NFC, Spring
+
+*Java Developer | Software Developer* +
+Softage, Novosibirsk, 2008 – 2010
+
+- Implemented new features in JavaEE e-commerce and customer service solution
+- Created unit tests and fixed bugs
+- Created a standalone tool for populating database used for performance tests
+
+
+=== Education
+*Novosibirsk State University, 2007* +
+Bachelor's degree in IT
+
+=== Languages
+- Russian (Native)
+- English (Full professional proficiency)
+- German, Spanish (Elementary level)
+
+=== All Resume Formats
+- https://laer.github.io/resume/resume.html[HTML]
+- https://raw.githubusercontent.com/laer/resume/master/resume.pdf[PDF]
