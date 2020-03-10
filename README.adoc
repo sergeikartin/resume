@@ -10,19 +10,25 @@
 
 == Senior Software Engineer / Senior Full-Stack Web developer
 
-- More than 12 years of professional experience in backend and frontend development
+- More than 13 years of professional experience in backend and frontend development
 - Follower of TDD and CI methodologies
 - Team Lead and mentoring experience
 
 
 
 === Technical skills
-- *Primary Skills:* Java, Spring, Javascript, Typescript, React
+- *Primary Skills:* JavaScript, TypeScript, React, Java, Spring
+- *React*: Redux, Redux-Saga, React Hooks, styled-components
 - *Java*: Spring (Boot, Data, Integration), EJB, JPA, JSF
-- *React*: Redux, Redux-Saga, React Hooks, Styled-components
 - *Tools*: CI, Firebase, Ansible, Selenium, Docker
 
 === Employment
+
+*Senior Web Developer* +
+https://picketstudio.com/[Picket Pty], Aug 2019 - Feb 2020
+
+- Create Facebook Messenger chat-bot for future students in University of Sydney
+- Technologies: Typescript, Botkit
 
 *Senior Web Developer* +
 https://buyer.listingloop.com.au/buyer/#/login/[ListingLoop], Jun 2018 - Jul 2019
