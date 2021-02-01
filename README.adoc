@@ -10,7 +10,7 @@
 
 == Senior Software Engineer / Senior Full-Stack Web developer
 
-- More than 13 years of professional experience in backend and frontend development
+- More than 15 years of professional experience in backend and frontend development
 - Follower of TDD and CI methodologies
 - Team Lead and mentoring experience
 
@@ -24,10 +24,16 @@
 
 === Employment
 
+*Software Engineer* +
+https://tribe.so/[Tribe], Sep 2020 - current time
+
+- Tribe is the most powerful and flexible solution to build integrated and branded communities.
+- Technologies: Typescript, React, GraphQL, Next.js
+
 *Senior Web Developer* +
 https://picketstudio.com/[Picket Pty], Aug 2019 - Feb 2020
 
-- Create Facebook Messenger chat-bot for future students in University of Sydney
+- Created Facebook Messenger chat-bot for future students in University of Sydney
 - Technologies: Typescript, Botkit
 
 *Senior Web Developer* +
