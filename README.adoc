@@ -8,27 +8,27 @@
 :quirks:
 :theme: cv
 
-== Senior Software Engineer / Senior Full-Stack Web developer
+== Senior Software Engineer
 
-- More than 15 years of professional experience in backend and frontend development
-- Follower of TDD and CI methodologies
-- Team Lead and mentoring experience
+- More than 17 years of professional experience in backend and frontend development
+- Problem solving, attention to detail, teamwork, adaptability, continuous learning 
 
 
 
 === Technical skills
-- *Primary Skills:* JavaScript, TypeScript, React, Java, Spring
-- *React*: Redux, Redux-Saga, React Hooks, styled-components
-- *Java*: Spring (Boot, Data, Integration), EJB, JPA, JSF
-- *Tools*: CI, Firebase, Ansible, Selenium, Docker
+- *Primary Skills:* JavaScript, TypeScript, React, HTML, CSS
+- *React*: Hooks, Suspense, SSR, React Query, GraphQL
+- *CSS*: Tailwind, Emotion, Styled components
+- *Testing*: React Testing Library, Jest, Vitest
+- *Tools*: Git, Gitlab, Docker, Yarn, pnpm
 
 === Employment
 
 *Software Engineer* +
-https://tribe.so/[Tribe], Sep 2020 - current time
+https://bettermode.com/[Bettermode], Sep 2020 - Feb 2024
 
-- Tribe is the most powerful and flexible solution to build integrated and branded communities.
-- Technologies: Typescript, React, GraphQL, Next.js
+- Bettermode is a customizable community platform that enables users to build unique customer communities
+- Technologies: TypeScript, React, GraphQL, Next.js, Tailwind, Vite, Astro
 
 *Senior Web Developer* +
 https://picketstudio.com/[Picket Pty], Aug 2019 - Feb 2020
@@ -90,8 +90,8 @@ Bachelor's degree in IT
 === Languages
 - Russian (Native)
 - English (Full professional proficiency)
-- German, Spanish (Elementary level)
+- Spanish (Intermediate level)
 
 === All Resume Formats
-- https://laer.github.io/resume/resume.html[HTML]
-- https://raw.githubusercontent.com/laer/resume/master/resume.pdf[PDF]
+- https://sergeikartin.github.io/resume/resume.html[HTML]
+- https://raw.githubusercontent.com/sergeikartin/resume/master/resume.pdf[PDF]
