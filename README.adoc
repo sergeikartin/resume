@@ -1,97 +1,70 @@
-= Resume - Sergei Kartin
-:author: Sergei Kartin
-:email: sergei.kartin@gmail.com
-:data-uri:
-:doctype: article
-:encoding: UTF-8
-:lang: en
-:quirks:
-:theme: cv
+:!outline:
 
-== Senior Software Engineer
+== Sergei Kartin
 
-- More than 17 years of professional experience in backend and frontend development
-- Problem solving, attention to detail, teamwork, adaptability, continuous learning 
+=== Senior Front End Engineer | Full Stack Engineer
+
+Budva, Montenegro | sergei.kartin@gmail.com | https://linkedin.com/in/sergeikartin[LinkedIn] | https://github.com/sergeikartin[GitHub]
+
+
+Highly experienced software engineer with over 17 years of professional expertise in both backend and frontend development, proficient in TypeScript, React, and Node.js. 
+Known for exceptional problem-solving abilities, keen attention to detail, adaptability, and a dedication to continuous learning.
 
 
 
-=== Technical skills
-- *Primary Skills:* JavaScript, TypeScript, React, HTML, CSS
-- *React*: Hooks, Suspense, SSR, React Query, GraphQL
-- *CSS*: Tailwind, Emotion, Styled components
-- *Testing*: React Testing Library, Jest, Vitest
-- *Tools*: Git, Gitlab, Docker, Yarn, pnpm
+=== Skills
+*Languages*: HTML, CSS, JavaScript, TypeScript, Java
 
-=== Employment
+*Technologies*: React, GraphQL, Node.js, React Query, Tailwind CSS, Next.js, Vite, Vitest, Yarn
 
-*Software Engineer* +
-https://bettermode.com/[Bettermode], Sep 2020 - Feb 2024
 
-- Bettermode is a customizable community platform that enables users to build unique customer communities
-- Technologies: TypeScript, React, GraphQL, Next.js, Tailwind, Vite, Astro
+=== Experience
 
-*Senior Web Developer* +
-https://picketstudio.com/[Picket Pty], Aug 2019 - Feb 2020
+*https://bettermode.com/[Bettermode], Remote | Front End Engineer* +
+Sep 2020 - Feb 2024
 
-- Created Facebook Messenger chat-bot for future students in University of Sydney
-- Technologies: Typescript, Botkit
+In addition to delivering product and consumer-facing features of the platform, I also +
 
-*Senior Web Developer* +
-https://buyer.listingloop.com.au/buyer/#/login/[ListingLoop], Jun 2018 - Jul 2019
+- Developed and maintained a UI kit using React and Tailwind, streamlining frontend development for a team of 5-10 developers
+- Established a design system with theming and dark mode support, improving UI consistency and customizability
+- Improved front-end developer experience by migrating from Webpack + React 16 to Vite + React 18, reducing HMR performance from >30s to instant module replacements and cutting initial bundle size by 50%
 
-- Created MVP product targeted for Australian real estate market
-- Developed a component library based on atomic design principles
-- Technologies: Firebase, React, Typescript, Redux, Redux-Saga, Jest
+*https://toptal.com/[Toptal], Remote | JavaScript developer* +
+2018 - 2020
 
-*Senior Java Developer | Tech Lead* +
-https://www.azoft.com/[Azoft], Novosibirsk, Mar 2017 – Jun 2018
+Developed a Facebook Messenger chat bot for prospective students of University of Sydney using Botkit, enhancing engagement by automating responses to common inquiries
 
-- Integrated telegram bot and bank call center
-- Developed MVP for financial social network integrated with online banking
-- Refactored of Customer Loyalty Program web app for a major Russian bank
+*https://listingloop.com.au/[ListingLoop], Remote | Front End Engineer* +
+Jun 2018 - Jul 2019
+
+Developed an MVP product for the Australian real estate market using Firebase, React, and Redux, successfully achieving a $500K crowdfunding target within three months
+
+*https://www.azoft.com/[Azoft], Novosibirsk | Senior Java Developer | Tech Lead* +
+Mar 2017 – Jun 2018
+
+- Led a team of 5 engineers to develop an MVP for a financial social network integrated with online banking
+- Refactored the Customer Loyalty Program web app for a top 5 Russian bank, enhancing scalability and enabling deployment in two additional banks
 - Technologies: Java, Kotlin, Spring Boot, Spring Data, PostgreSQL
 
 
-*Senior Java Developer | Architect* +
-Easysport, Remote, 2010 – 2017
+*Easysport, Remote | Senior Java Developer* +
+2010 – 2017
 
-- Leading the development, automated testing and deployment of web application for booking sport courts.
-- Updated an application from Java EE 5 to Java EE 7, migrated from RichFaces to PrimeFaces.
-- Refactored the core functionality to have more understandable code and better performance.
-- Created a new front-end in React.
-- Introduced code quality pipeline, including unit and Selenium tests, Jenkins CI server, static code analysis
-- Technologies: Java, EJB, JSF, JPA, PrimeFaces, Maven
+Led the development of web application for booking sport courts in team of 5-7 developers using Java, EJB, JSF
 
 
-*Software Developer* +
-Freelance Work, 2007 - 2012
+*Softage, Novosibirsk | Java Developer | Software Developer* +
+2008 – 2010
 
-- Developed the iPad application called Muscle & Bone Study.
-- Created a website showing local offers and discounts.
-- Built a website covering regional news based on Drupal.
-- Crafted the UI for the Spyder display calibration software for professional photographers and studios.
-- Created J2ME application for tourists reading RFID tags with city information.
-- Created a dance studio attendance tracking application.
-- Created WAP site for social mobile communication service.
-- Technologies: Objective-C, Python, Django, PHP, jQuery, REALBasic, NFC, Spring
-
-*Java Developer | Software Developer* +
-Softage, Novosibirsk, 2008 – 2010
-
-- Implemented new features in JavaEE e-commerce and customer service solution
-- Created unit tests and fixed bugs
+Developed new features for JavaEE customer engagement improvement solution +
 - Created a standalone tool for populating database used for performance tests
 
 
 === Education
-*Novosibirsk State University, 2007* +
-Bachelor's degree in IT
+Bachelor's degree in IT | Novosibirsk State University, 2007
+
 
 === Languages
 - Russian (Native)
 - English (Full professional proficiency)
 - Spanish (Intermediate level)
-
-=== All Resume Formats
-- https://sergeikartin.github.io/resume/resume.html[HTML]
-- https://raw.githubusercontent.com/sergeikartin/resume/master/resume.pdf[PDF]
