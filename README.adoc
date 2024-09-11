@@ -39,22 +39,22 @@ Jun 2018 - Jul 2019
 
 Developed an MVP product for the Australian real estate market using Firebase, React, and Redux, successfully achieving a $500K crowdfunding target within three months
 
-*https://www.azoft.com/[Azoft], Novosibirsk | Senior Java Developer | Tech Lead* +
+*https://www.azoft.com/[Azoft], Novosibirsk | Senior Java Developer* +
 Mar 2017 – Jun 2018
 
-- Led a team of 5 engineers to develop an MVP for a financial social network integrated with online banking
+- Led the development of a minimum viable product (MVP) for a financial social network, working in collaboration with a team of five engineers.
 - Refactored the Customer Loyalty Program web app for a top 5 Russian bank, enhancing scalability and enabling deployment in two additional banks
 - Technologies: Java, Kotlin, Spring Boot, Spring Data, PostgreSQL
 
 
-*Easysport, Remote | Senior Java Developer* +
-2010 – 2017
+*Easysport, Remote | Java Developer* +
+2012 – 2016
 
-Led the development of web application for booking sport courts in team of 5-7 developers using Java, EJB, JSF
+Developed a web application for booking sports courts as part of a team of 5-7 developers, utilizing Java, EJB, and JSF.
 
 
-*Softage, Novosibirsk | Java Developer | Software Developer* +
-2008 – 2010
+*Softage, Novosibirsk | Junior Java Developer* +
+2008 – 2012
 
 Developed new features for JavaEE customer engagement improvement solution +
 - Created a standalone tool for populating database used for performance tests
