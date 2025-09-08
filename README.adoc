@@ -2,26 +2,28 @@
 
 == Sergei Kartin
 
-=== Senior Front End Engineer | Full Stack Engineer
+=== Frontend Software Engineer
 
-Budva, Montenegro | sergei.kartin@gmail.com | https://linkedin.com/in/sergeikartin[LinkedIn] | https://github.com/sergeikartin[GitHub]
-
-
-Highly experienced software engineer with over 17 years of professional expertise in both backend and frontend development, proficient in TypeScript, React, and Node.js. 
-Known for exceptional problem-solving abilities, keen attention to detail, adaptability, and a dedication to continuous learning.
+Novosibirsk, Russia | +79231440784 | sergei.kartin@gmail.com | https://linkedin.com/in/sergeikartin[LinkedIn] | https://github.com/sergeikartin[GitHub]
 
 
+Frontend Software Engineer specializing in React and TypeScript, with solid backend experience in Node.js and Java. Skilled at building responsive, user-friendly interfaces and integrating them with scalable APIs and services. Known for exceptional problem-solving abilities, keen attention to detail, adaptability, and a dedication to continuous learning.
 
-=== Skills
-*Languages*: HTML, CSS, JavaScript, TypeScript, Java
 
-*Technologies*: React, GraphQL, Node.js, React Query, Tailwind CSS, Next.js, Vite, Vitest, Yarn
-
+- Frontend: React, TypeScript, JavaScript, HTML, CSS, Next.js, React Query, Tailwind CSS, Vite
+- Backend: Node.js, Next.js, Java, REST, GraphQL
 
 === Experience
 
+*https://toptal.com/[Toptal], Remote | JavaScript developer* +
+2024 - 2025
+
+- DeliveryHero: Refactored wrapper of restaurant portal web application to support major release of the app by reverse engineering the legacy communication protocol
+
+- Automotive Platform (soda.auto) Contributed to releases of new frontend features, using React, GraphQL, Apollo, and MUI.
+
 *https://bettermode.com/[Bettermode], Remote | Front End Engineer* +
-Sep 2020 - Feb 2024
+2020 - 2024
 
 In addition to delivering product and consumer-facing features of the platform, I also +
 
@@ -30,7 +32,7 @@ In addition to delivering product and consumer-facing features of the platform, 
 - Improved front-end developer experience by migrating from Webpack + React 16 to Vite + React 18, reducing HMR performance from >30s to instant module replacements and cutting initial bundle size by 50%
 
 *https://toptal.com/[Toptal], Remote | JavaScript developer* +
-2018 - 2020
+2019 - 2020
 
 Developed a Facebook Messenger chat bot for prospective students of University of Sydney using Botkit, enhancing engagement by automating responses to common inquiries
 
@@ -68,3 +70,4 @@ Bachelor's degree in IT | Novosibirsk State University, 2007
 - Russian (Native)
 - English (Full professional proficiency)
 - Spanish (Intermediate level)
+- German (Elementary)
